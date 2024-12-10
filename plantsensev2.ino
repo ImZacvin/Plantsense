@@ -10,9 +10,9 @@
 
 //Initialize the LCD display
 
-char auth[] = "UAJu7TAAuQHkn4oNQocS2d1cl3rMFzUP";//Enter your Auth token
-char ssid[] = "sukses";//Enter your WIFI name
-char pass[] = "suksesssss";//Enter your WIFI password
+char auth[] = "";//Enter your Auth token
+char ssid[] = "";//Enter your WIFI name
+char pass[] = "";//Enter your WIFI password
 
 BlynkTimer timer;
 bool Relay = 0;
